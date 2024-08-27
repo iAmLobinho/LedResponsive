@@ -11,5 +11,5 @@ graph TD;
 
 - [X] Arduino Mega 2560
 - [X] Código
-- [ ] Fita de led 1 Metro:tada:
+- [ ] Fita de led 1 Metro
 - [X] Potenciometro 
