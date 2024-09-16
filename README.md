@@ -1,7 +1,7 @@
 # LedResponsive
 Led Rítmico Responsivo com o movimento e modo de movimento
 
-```mermaid
+```mermaid    
 graph TD;
     Arduino-->Board;
     Board-->Potenciometro10kΩ;
@@ -11,5 +11,5 @@ graph TD;
 
 - [X] Arduino Mega 2560
 - [X] Código
-- [ ] Fita de led 1 Metro
-- [X] Potenciometro 
+- [X] Fita de led 1 Metro
+- [X] Potenciometro
