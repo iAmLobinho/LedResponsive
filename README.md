@@ -1,5 +1,5 @@
 # LedResponsive
-Led Rítmico Responsivo com o movimento e modo de movimento
+Led Rítmico Responsivo com o *som* e modo de *movimento*
 
 
 - **Tendência inicial**
