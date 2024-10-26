@@ -16,8 +16,9 @@ graph TD;
 - [X] Potenciometro
 
 ## Bibliotecas inclusas
-`#include <Adafruit_NeoPixel_ZeroDMA.h>
+```
+#include <Adafruit_NeoPixel_ZeroDMA.h>
 #include <bittable.h>
 #include <pins.h>
 #include <FastLED.h>
-#include <Adafruit_NeoPixel.h>`
+#include <Adafruit_NeoPixel.h>```
